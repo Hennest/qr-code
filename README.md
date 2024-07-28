@@ -1,5 +1,8 @@
 # Qr Code Generator 
 
+This library provides a simple and easy-to-use QR code generator for PHP applications. 
+It is built on top of the [BaconQrCode](https://github.com/Bacon/BaconQrCode) library and offers a flexible and efficient way to generate QR codes.
+
 ## Installation
 
 You can install this library via Composer:
