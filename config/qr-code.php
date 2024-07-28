@@ -47,11 +47,11 @@ return [
             /**
              * QR Code renderer size
              */
-            'size' => 300,
+            'size' => env('QR_CODE_SIZE', 300),
             /**
              * QR Code renderer margin
              */
-            'margin' => 4,
+            'margin' => env('QR_CODE_MARGIN', 4),
             /**
              * QR Code renderer color
              */
